@@ -480,6 +480,19 @@
 				<string>#565656</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>DocBlockr</string>
+			<key>scope</key>
+			<string>doc​blockr.js</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>normal</string>
+				<key>foreground</key>
+				<string>#795f46</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>CAB58494-D1A3-4BAD-BBC6-DAED679AD20B</string>
