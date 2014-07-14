@@ -444,7 +444,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ef5d32</string>
+				<string>#EF5D32</string>
 			</dict>
 		</dict>
 		<dict>
@@ -466,7 +466,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#c699bb</string>
+				<string>#C699BB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -482,15 +482,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>DocBlockr</string>
+			<string>DocBlockr, Comment Tag</string>
 			<key>scope</key>
-			<string>doc​blockr.js</string>
+			<string>doc​blockr.js, comment.tag.sass</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>normal</string>
 				<key>foreground</key>
-				<string>#795f46</string>
+				<string>#795F46</string>
 			</dict>
 		</dict>
 	</array>
