@@ -484,13 +484,24 @@
 			<key>name</key>
 			<string>DocBlockr, Comment Tag</string>
 			<key>scope</key>
-			<string>doc​blockr.js, comment.tag.sass</string>
+			<string>doc​blockr.js, comment.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
 				<string>normal</string>
 				<key>foreground</key>
 				<string>#795F46</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JS Object Type</string>
+			<key>scope</key>
+			<string>support.class.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7DAF9C</string>
 			</dict>
 		</dict>
 	</array>
