@@ -155,7 +155,7 @@
 			<key>name</key>
 			<string>Invalid – Illegal</string>
 			<key>scope</key>
-			<string>invalid.illegal</string>
+			<string>invalid</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
