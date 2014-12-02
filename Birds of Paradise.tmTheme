@@ -484,7 +484,7 @@
 			<key>name</key>
 			<string>DocBlockr, Comment Tag</string>
 			<key>scope</key>
-			<string>doc​blockr.js, comment.tag</string>
+			<string>doc​blockr.js, comment.tags</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
