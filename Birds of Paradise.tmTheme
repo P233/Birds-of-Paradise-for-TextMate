@@ -407,11 +407,37 @@
 			<key>name</key>
 			<string>CSS Attributes</string>
 			<key>scope</key>
-			<string>meta.selector.css entity.name.tag, meta.selector.css entity.other.attribute-name.class, meta.selector.css entity.other.attribute-name.id</string>
+			<string>meta.selector.css entity.name.tag, meta.selector.css entity.other.attribute-name.class</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#EFAC32</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS ID selector</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.id</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EFAC32</string>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSS Pseudo Class and Elements</string>
+			<key>scope</key>
+			<string>entity.other.attribute-name.pseudo-class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#EFAC32</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
