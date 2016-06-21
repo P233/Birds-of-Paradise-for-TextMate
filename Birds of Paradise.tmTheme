@@ -418,7 +418,7 @@
 			<key>name</key>
 			<string>CSS ID selector</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.id</string>
+			<string>entity.other.attribute-name.id.css.sass</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -429,9 +429,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CSS Pseudo Class and Elements</string>
+			<string>CSS Pseudo Class/Elements and attribute selector</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name.pseudo-class</string>
+			<string>entity.other.attribute-name.pseudo-class.css.sass, meta.attribute-selector.css.sass</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
